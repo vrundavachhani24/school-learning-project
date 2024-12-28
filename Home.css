@@ -1,0 +1,113 @@
+.boy{
+    height: 100%;
+    width: 100%;
+}
+.headertext{
+    margin-top: 100px;
+}
+.logo{
+    height: 70px;
+    width: 70px;
+}
+.line{
+    height: 2px;
+    width: 50px;
+}
+div.box{
+    margin-top: -50px;
+    z-index: 2;
+}
+.pencle{
+    height: 100%;
+    width: 100%;
+}
+.line2{
+    height: 2px;
+    width: 50px;
+}
+.pancletext{
+    margin-top: 150px;
+    margin-left: 80px;
+}
+.icon{
+    height: 34px;
+    width: 153px;
+}
+.icon1{
+    height: 59px;
+    width: 146;
+}
+.icon2{
+    height: 75px;
+    width: 152px;
+    margin-top: -20px;
+}
+.icon3{
+    height: 42px;
+    width: 151px;
+}
+.icon4{
+    height: 62px;
+    width: 151px;
+}
+.icon5{
+    margin-top: -10px;
+    height: 72px;
+    width: 151px;
+}
+.courseimg{
+    height: 100%;
+    width: 100%;
+}
+.sale{
+    height: 25px;
+    width: 70px;
+}
+.rate{
+    height: 40px;
+    width: 120px;
+}
+.heart{
+    height: 90px;
+    width: 90px;
+}
+
+.Subscribe{
+    width: 650px;
+    margin-left: 350px;
+}
+.school{
+    height: 500px;
+    width: 450px;
+}
+
+
+
+@media (max-width:912px){
+    div.box{
+        margin-top: 0%;
+    }
+    .footer{
+        text-align: center;
+    }
+    .hoole{
+        justify-content: center;
+    }
+    .footericon{
+        text-align: center;
+    }
+    .school{
+        width: auto;
+    }
+}
+
+@media (max-width:992px){
+    .Subscribe{
+        margin-left: 0%;
+        width: auto;
+        padding: 10px;
+    }
+    .school{
+        width: auto;
+    }
+}
